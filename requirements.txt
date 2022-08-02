@@ -1,0 +1,2 @@
+# Developed with 9.2.0
+Pillow
